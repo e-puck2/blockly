@@ -56,6 +56,11 @@ goog.require('Blockly.utils');
 goog.require('goog.color');
 goog.require('goog.userAgent');
 
+goog.require('goog.dom');
+goog.require('goog.net.XhrIo');
+goog.require('goog.structs.Map');
+goog.require('goog.Uri.QueryData');
+
 
 // Turn off debugging when compiled.
 var CLOSURE_DEFINES = {'goog.DEBUG': false};
