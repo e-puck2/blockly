@@ -5,3 +5,5 @@ npm-debug.log
 .project
 *.pyc
 *.komodoproject
+*_compressed.js
+msg/js/*.js
