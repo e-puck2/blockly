@@ -60,6 +60,7 @@ goog.require('goog.dom');
 goog.require('goog.net.XhrIo');
 goog.require('goog.structs.Map');
 goog.require('goog.Uri.QueryData');
+goog.require('goog.net.XhrManager');
 
 
 // Turn off debugging when compiled.
