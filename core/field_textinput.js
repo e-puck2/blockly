@@ -124,7 +124,7 @@ Blockly.FieldTextInput.prototype.showEditor_ = function(opt_quietInput) {
         if (newValue !== null) {
             this.setText(newValue);
         }
-    }
+    });
     return;
   }
 
