@@ -555,7 +555,7 @@
 	"THYMIO_ACTUATOR_COMM": "Ustaw wartość komunikacji IR do wysłania",
 	"THYMIO_ACTUATOR_TIMER_HELPURL": "https://www.thymio.org/fr:thymiotutorielp2",
 	"THYMIO_ACTUATOR_TIMER_TOOLTIP": "Ustawia zmieną czasu zegara na robocie",
-	"THYMIO_ACTUATOR_TIMER": "dustaw %1 licznik na %2 milisekund",
+	"THYMIO_ACTUATOR_TIMER": "ustaw %1 licznik na %2 milisekund",
 	"THYMIO_ACTUATOR_TIMER_FIRST": "pierwszy",
 	"THYMIO_ACTUATOR_TIMER_SECOND": "drugi",
 	"THYMIO_ACTUATOR_MOTOR_HELPURL": "https://www.thymio.org/fr:thymiotutorielp2",
