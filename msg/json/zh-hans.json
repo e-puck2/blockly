@@ -543,7 +543,7 @@
 	"THYMIO_ACTUATOR_COMM": "设置发送的红外通讯值为",
 	"THYMIO_ACTUATOR_TIMER_HELPURL": "https://www.thymio.org/en:thymiotutorielp2",
 	"THYMIO_ACTUATOR_TIMER_TOOLTIP": "在机器人上设置计时器周期变量",
-	"THYMIO_ACTUATOR_TIMER": "将％1计时器周期设置为％2毫秒",
+	"THYMIO_ACTUATOR_TIMER": "将％1计时器周期设置为 %2 毫秒",
 	"THYMIO_ACTUATOR_TIMER_FIRST": "第一",
 	"THYMIO_ACTUATOR_TIMER_SECOND": "第二",
 	"THYMIO_ACTUATOR_MOTOR_HELPURL": "https://www.thymio.org/en:thymiotutorielp2",
